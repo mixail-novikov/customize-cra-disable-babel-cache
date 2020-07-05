@@ -1,0 +1,25 @@
+{
+  "name": "customize-cra-disable-babel-cache",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixail-novikov/customize-cra-disable-babel-cache.git"
+  },
+  "author": "Mikhail Novikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mixail-novikov/customize-cra-disable-babel-cache/issues"
+  },
+  "homepage": "https://github.com/mixail-novikov/customize-cra-disable-babel-cache#readme",
+  "peerDependencies": {
+    "customize-cra": "^1.0.0"
+  },
+  "devDependencies": {
+    "customize-cra": "^1.0.0"
+  }
+}
